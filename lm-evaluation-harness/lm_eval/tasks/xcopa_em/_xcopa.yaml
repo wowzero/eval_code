@@ -1,0 +1,9 @@
+group: xcopa_em
+task:
+  - xcopa_zh
+aggregate_metric_list:
+  - metric: exact_match
+    aggregation: mean
+    weight_by_size: True
+metadata:
+  version: 1.0
