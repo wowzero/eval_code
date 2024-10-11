@@ -26,7 +26,7 @@ bash eval.sh ${your_model} sanitized_mbpp_gen_742f0c
 
 ### humaneval
   ```bash
-cd ./vllm_eval/submit/
+cd ./vllm_eval/
 bash eval.sh ${your_model}
   ```
 
